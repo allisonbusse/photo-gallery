@@ -32,4 +32,4 @@ test('renders li', assert => {
     assert.htmlEqual(html, expected);
 
 
-})
+});
